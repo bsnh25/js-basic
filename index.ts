@@ -50,3 +50,6 @@ console.log(fruits);
 fruits.shift();
 console.log(fruits);
 console.log(fruits.length);
+
+console.log(fruits.includes("Banana") ? true : false);
+console.log(fruits.indexOf("Orange"));
