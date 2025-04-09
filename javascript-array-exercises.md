@@ -118,6 +118,7 @@ Example output → `"Apple,Banana,Orange"`
 
 ```javascript
 // your code here
+fruits.toString();
 ```
 
 ---

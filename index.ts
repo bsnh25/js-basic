@@ -53,3 +53,4 @@ console.log(fruits.length);
 
 console.log(fruits.includes("Banana") ? true : false);
 console.log(fruits.indexOf("Orange"));
+console.log(fruits.toString());
