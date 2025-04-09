@@ -45,3 +45,5 @@ let fruits = ["Apple", "Banana", "Orange"];
 fruits.push("Mango");
 fruits.unshift("Grape");
 console.log(fruits);
+fruits.pop();
+console.log(fruits);
