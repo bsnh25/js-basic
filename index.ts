@@ -49,3 +49,4 @@ fruits.pop();
 console.log(fruits);
 fruits.shift();
 console.log(fruits);
+console.log(fruits.length);
