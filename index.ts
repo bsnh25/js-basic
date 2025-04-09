@@ -13,3 +13,7 @@ console.log(person["hobby"]);
 
 person.age = 30;
 console.log(person.age);
+
+console.log(person);
+delete person.job;
+console.log(person);
