@@ -10,3 +10,6 @@ console.log(person.job);
 person["hobby"] = "Reading";
 
 console.log(person["hobby"]);
+
+person.age = 30;
+console.log(person.age);
