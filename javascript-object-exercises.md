@@ -89,6 +89,14 @@ Print `student`'s city.
 
 ```javascript
 // your code here
+person["student"] = {
+  name: "Alice",
+  grade: 90,
+  address: {
+    city: "Jakarta",
+    country: "Indonesia",
+  },
+};
 ```
 
 ---

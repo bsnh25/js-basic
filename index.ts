@@ -17,3 +17,14 @@ console.log(person.age);
 console.log(person);
 delete person.job;
 console.log(person);
+
+person["student"] = {
+  name: "Alice",
+  grade: 90,
+  address: {
+    city: "Jakarta",
+    country: "Indonesia",
+  },
+};
+
+console.log(person);
