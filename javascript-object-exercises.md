@@ -111,6 +111,9 @@ Then call it.
 
 ```javascript
 // your code here
+person["greet"] = function () {
+  return `Hi, my name is ${this.name}`;
+};
 ```
 
 ---
