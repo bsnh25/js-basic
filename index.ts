@@ -36,3 +36,8 @@ person["greet"] = function () {
 console.log(person);
 
 console.log(person.greet());
+
+let fruits = ["Apple", "Banana", "Orange"];
+
+console.log(fruits.shift());
+console.log(fruits.pop());

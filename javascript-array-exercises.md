@@ -25,6 +25,8 @@ Print the first and the last element of the `fruits` array.
 
 ```javascript
 // your code here
+console.log(fruits.shift());
+console.log(fruits.pop());
 ```
 
 ---
