@@ -6,3 +6,7 @@ const person = {
 
 console.log(person.name);
 console.log(person.job);
+
+person["hobby"] = "Reading";
+
+console.log(person["hobby"]);
